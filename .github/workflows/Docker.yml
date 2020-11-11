@@ -14,7 +14,7 @@ on:
 
 env:
   # TODO: Change variable to your image's name.
-  IMAGE_NAME: usuarios/usuarios-test
+  IMAGE_NAME: zipkin/zipkin-test
 
 jobs:
   # Run tests.
